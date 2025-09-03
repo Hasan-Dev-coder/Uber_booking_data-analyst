@@ -14,15 +14,15 @@ This project explores and analyzes Uber booking patterns, cancellations, and use
 
 
 ## 📈 Dashboard Highlights
-- Cancelled vs Completed rides
-- Ride patterns by time and location
-- Demand trends across payment types and days
+  Cancelled vs Completed rides
+  Ride patterns by time and location
+  Demand trends across payment types and days
 
 ## 🔧 Tools Used
-- Python, Pandas, Scikit-learn, Seaborn
-- MySQL
-- Power BI
-- Git & GitHub
+  Python, Pandas, Scikit-learn, Seaborn
+  MySQL
+  Power BI
+  Git & GitHub
 
 ---
 
